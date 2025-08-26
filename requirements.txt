@@ -1,0 +1,17 @@
+# 資料處理核心套件
+pandas>=1.5.0
+numpy>=1.21.0
+
+# SAV檔案讀取套件
+pyreadstat>=1.2.0
+
+# 編碼處理
+chardet>=5.0.0
+
+# 開發工具（可選）
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# 日誌和路徑處理（Python內建，無需安裝）
+# pathlib - Python 3.4+ 內建
+# logging - Python 內建
